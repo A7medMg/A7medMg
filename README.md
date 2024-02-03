@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Magdy</h1>
 <h3 align="center">A passionate flutter developer from egypt</h3>
-<img align="right" alt="coding" width="400" src="<h1 align="center">Hi 👋, I'm Ahmed Magdy</h1>
-<h3 align="center">A passionate flutter developer from egypt</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medmg&label=Profile%20views&color=0e75b6&style=flat" alt="a7medmg" /> </p>
 
@@ -23,7 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a7medmg&show_icons=true&locale=en" alt="a7medmg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a7medmg&" alt="a7medmg" /></p>
-">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medmg&label=Profile%20views&color=0e75b6&style=flat" alt="a7medmg" /> </p>
 
