@@ -1,27 +1,90 @@
-<h1 align="center">Hi 👋, I'm Ahmed Magdy</h1>
-<h3 align="center">A passionate flutter developer from egypt</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medmg&label=Profile%20views&color=0e75b6&style=flat" alt="a7medmg" /> </p>
-
-- 🌱 I’m currently learning **flutter and Backend**
-
-- 📫 How to reach me **https://www.facebook.com/ahmed.sleem.3785373**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/ahmed.sleem.3785373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ahmed.sleem.3785373" height="30" width="40" /></a>
-<a href="https://discord.gg/ahmedmagdy20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ahmedmagdy20" height="30" width="40" /></a>
+<!-- HEADER GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/mtU5jlJk6XUHq/giphy.gif" width="200px">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi, I'm Ahmed Magdy 👋</h1>
+<h3 align="center">Flutter Developer • Backend Learner • UI/UX Enthusiast</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a7medmg&show_icons=true&locale=en&layout=compact" alt="a7medmg" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=a7medmg&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a7medmg&show_icons=true&locale=en" alt="a7medmg" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a7medmg&" alt="a7medmg" /></p>
+<!-- BADGES (INTERACTIVE) -->
+<p align="center">
+  <a href="https://github.com/a7medmg">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://facebook.com/ahmed.sleem.3785373">
+    <img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" />
+  </a>
+  <a href="https://discord.gg/ahmedmagdy20">
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord" />
+  </a>
+  <a href="mailto:ahmed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medmg&label=Profile%20views&color=0e75b6&style=flat" alt="a7medmg" /> </p>
+## 🎯 About Me  
+- 💙 I build modern mobile apps using **Flutter**  
+- 🔥 Learning Backend to move toward **Full-Stack Mobile Engineering**  
+- 🎨 Passionate about clean UI/UX and smooth animations  
+- 🧠 Always learning, practicing, and developing bigger ideas  
+- 📬 Contact me: **facebook.com/ahmed.sleem.3785373**
+
+---
+
+## 👨‍💻 Coding Vibes GIF  
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px">
+</p>
+
+---
+
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,php,mysql,sqlite,python,linux,figma,html,css,c,cpp,arduino,xd,postman,tensorflow" />
+</p>
+
+---
+
+## ⚡ Interactive Tech Badges  
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=a7medmg&show_icons=true&theme=react" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medmg&layout=compact&theme=react" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=a7medmg&theme=react" />
+</p>
+
+---
+
+## 🎬 Footer Animation  
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300px">
+</p>
+
+<p align="center">
+  <b>✨ Thanks for visiting! Don’t forget to ⭐ my repos!</b>
+</p>
