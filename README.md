@@ -36,7 +36,12 @@
 - 🔥 Learning Backend to move toward **Full-Stack Mobile Engineering**  
 - 🎨 Passionate about clean UI/UX and smooth animations  
 - 🧠 Always learning, practicing, and developing bigger ideas  
-- 📬 Email: [ahmed magdy](mailto:ahmedmagdy8064@gmail.com)
+<p>
+  📬 Email:
+  <a href="mailto:ahmedmagdy8064@gmail.com">
+    ahmedmagdy8064@gmail.com
+  </a>
+</p>
 
 ---
 
