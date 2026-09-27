@@ -24,7 +24,7 @@
   <a href="https://discord.gg/ahmedmagdy20">
     <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord" />
   </a>
-  <a href="mailto:ahmed@gmail.com">
+  <a href="mailto:ahmedmagdy8064@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -36,7 +36,7 @@
 - 🔥 Learning Backend to move toward **Full-Stack Mobile Engineering**  
 - 🎨 Passionate about clean UI/UX and smooth animations  
 - 🧠 Always learning, practicing, and developing bigger ideas  
-- 📬 Contact me: **facebook.com/ahmed.sleem.3785373**
+- 📬 Email: [ahmed magdy](mailto:ahmedmagdy8064@gmail.com)
 
 ---
 
