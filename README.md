@@ -4,15 +4,16 @@
 </p>
 
 <h1 align="center">Hi, I'm Ahmed Magdy 👋</h1>
-<h3 align="center">Flutter Developer • Backend Learner • UI/UX Enthusiast</h3>
+<h3 align="center">Software Engineer | Flutter Developer | Clean Architecture | BLoC | CI/CD </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a7medmg&label=Profile%20Views&color=blue&style=flat" />
-</p>
 
 ---
 
 <!-- BADGES (INTERACTIVE) -->
+<p align="center">
+<h3 align="center">Those who break the rules are scum, but those who abandon their friends are worse than scum</h3>
+</p>
+
 <p align="center">
   <a href="https://github.com/a7medmg">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
