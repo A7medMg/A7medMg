@@ -1,7 +1,4 @@
 <!-- HEADER GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/mtU5jlJk6XUHq/giphy.gif" width="200px">
-</p>
 
 <h1 align="center">Hi, I'm Ahmed Magdy 👋</h1>
 <h3 align="center">Software Engineer | Flutter Developer | Clean Architecture | BLoC | CI/CD </h3>
